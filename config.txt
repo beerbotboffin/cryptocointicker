@@ -1,0 +1,16 @@
+{
+    "API":{
+        "url":"https://coinmarketcap.com/api/pricing/",
+        "API_KEY":""
+    },
+    "ftp":{
+		"address":"",
+		"username":"",
+		"password":"",
+		"file":"CryptoTicker.html"
+    },
+	"files":{
+		"tophtmltemplate":"htmltoptemplate.txt",
+		"bottomhtml":"htmlbottomtemplate.txt"
+	}
+}
